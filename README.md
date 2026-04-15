@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Peter%20Okerulu&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Frontend%20Engineer%20%7C%20React%20%26%20Next.js&descAlignY=80&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Peter%20Okerulu&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Frontend%20Engineer%20-%20React%20and%20Next.js&descAlignY=80&descSize=18&descColor=a78bfa" />
 
 <!-- Tagline -->
 ### I build polished digital products that feel intentional, fast, and memorable.
