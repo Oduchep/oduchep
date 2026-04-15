@@ -62,7 +62,7 @@ From **fintech** to **SaaS** and **marketplaces** — I turn ambitious ideas int
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=oduchep&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+  <img src="https://streak-stats.demolab.com?user=oduchep&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 </div>
 
 ---
